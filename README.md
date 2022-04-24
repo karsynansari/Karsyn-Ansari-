@@ -1,6 +1,6 @@
 # Hi, I'm Karsyn!
 
-👩🏽‍💻 Software Engineer  🧗🏽‍♀️ Rock Climber & Adventure Enthusiast  📍 Salt Lake City, UT
+👩🏽‍💻 Software Engineer   🧗🏽‍♀️ Rock Climber & Adventure Enthusiast   📍 Salt Lake City, UT
  
  ## Projects 
  
