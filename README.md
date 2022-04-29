@@ -12,9 +12,12 @@
  * Student Task List — A productivity & planning app, specifically designed for busy coding bootcamp students. 
  * Chuck Norris Joke Generator - My very first project, built with vanilla JS & a free, fun API. 
 
-## Me in 3 Lines of Markdown 
+## Me in 4 Lines of Markdown 
 
-🖤 I love problem-solving & challenging myself, which is why I decided to learn to program!
+🖤 I love problem-solving, challenging myself, and using my skills for good, which is why I decided to learn to program!
+
+
+🌱 I believe we can always do better by our fellow humans and our planet, and I don't believe in settling for anything less 
 
 
 🎓 I graduated from Flatiron School's Live Software Engineering Program in April 2022
