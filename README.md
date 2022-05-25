@@ -9,7 +9,7 @@
  ## Projects 
  
  * [Meal Planner](https://github.com/karsynansari/meal-planner) — A user-sourced recipe database & meal-planning app. 
- * Student Task List — A productivity & planning app, specifically designed for busy coding bootcamp students. 
+ * [Flatiron Student Productivity App](https://github.com/karsynansari/Flatiron-Student-Productivity-App) — A productivity & planning app, specifically designed for busy coding bootcamp students. 
  * [Chuck Norris Joke Generator](https://github.com/karsynansari/Chuck-Norris-Joke-Generator) - My very first project, built with vanilla JS & a free, fun API. 
 
 ## Me in 4 Lines of Markdown 
