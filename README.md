@@ -1,26 +1,23 @@
 # Hi, I'm Karsyn!
 
-👩🏽‍💻 Software Engineer 
+👩🏽‍💻 Web developer @ Santa Cruz Bicycles 
 
-🧗🏽‍♀️ Rock Climber & Adventure Enthusiast
+🧗🏽‍♀️ Rock climber & lover of fresh air, 🏔 ⛰ and 🌞. 
 
 📍 Salt Lake City, UT
  
- ## Projects 
+ ## Projects
  
  * [Meal Planner](https://github.com/karsynansari/meal-planner) — A user-sourced recipe database & meal-planning app. 
  * [Flatiron Student Productivity App](https://github.com/karsynansari/Flatiron-Student-Productivity-App) — A productivity & planning app, specifically designed for busy coding bootcamp students. 
  * [Chuck Norris Joke Generator](https://github.com/karsynansari/Chuck-Norris-Joke-Generator) - My very first project, built with vanilla JS & a free, fun API. 
 
-## Me in 4 Lines of Markdown 
+## Me in 3 Lines of Markdown 
 
-🖤 I love problem-solving, challenging myself, and using my skills for good, which is why I decided to learn to program!
-
-
-🌱 I believe we can always do better by our fellow humans and our planet, and I don't believe in settling for anything less 
+🖤 I love finding solutions to help my fellow humans, which is why I decided to learn to program. 
 
 
-🎓 I graduated from Flatiron School's Live Software Engineering Program in April 2022
+🌱 I believe we can always do better by people and our planet, and I don't believe in settling for anything less. 
 
 
-🤗 I'm excited to dive more into data structures & code some fun projects this summer 
+🤗 I've never met a baked good that I didn't like. 
